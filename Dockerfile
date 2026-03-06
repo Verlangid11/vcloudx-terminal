@@ -1,6 +1,6 @@
 FROM debian:bookworm-slim
 
-LABEL author="verlangid" maintainer="verlangid@gmail.com"
+LABEL author="vcloudx" maintainer="vcloudx@gmail.com"
 
 ENV DEBIAN_FRONTEND=noninteractive \
     USER=container \
